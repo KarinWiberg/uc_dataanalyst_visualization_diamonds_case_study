@@ -7,3 +7,4 @@ You'll go through the steps of an explanatory data visualization, systematically
 diamonds.csv
 
 ## Python Version
+Python 3.8.3
